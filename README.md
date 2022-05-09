@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @miguelo10, I’m interested in if it is possible to change range in uniswp´s pools once you are out of range.
